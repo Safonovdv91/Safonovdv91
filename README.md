@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any interesting projects where I can grow up and know new things
 - 📫 How to reach me ... Email: Safonovdv91@mail.ru, Softik.d@gmail.com or insta @Safonov_sml
 
-One of the many reason why I learn programming - I want to leave in peace...
+One of the many reason why I learn programming - I want to live in peace...
 <!---
 Safonovdv91/Safonovdv91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
