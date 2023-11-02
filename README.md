@@ -2,7 +2,7 @@
 - 👀 I’m interested in Snowboarding, Motogymkhana, Video making and of course programming!
 - 🌱 I’m currently learning Python, SQL
 - 💞️ I’m looking to collaborate on any interesting projects where I can grow up and know new things
-- 📫 How to reach me ... Email: Safonovdv91@mail.ru, Softik.d@gmail.com or insta @Safonov_sml
+- 📫 How to reach me ... Email: Safonovdv91@mail.ru, Softik.d@gmail.com or tg: [@Safonov_sml](https://t.me/SoftikMy1)
 
 One of the many reason why I learn programming - I want to live in peace...
 
