@@ -79,7 +79,7 @@
 ---
 
 ## 📬 Контакты
-🌐 **Web-Site** https://sf-dev.ru
+🌐 **Web-Site** [https://sf-dev.ru]
 📧 **Email:** [softik.d@gmail.com]  
 💼 **GitHub:** [github.com/Safonovdv91](https://github.com/Safonovdv91)  
 💬 **Telegram:** [@SoftikMy](https://t.me/SoftikMy)
