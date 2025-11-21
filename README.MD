@@ -79,10 +79,10 @@
 ---
 
 ## 📬 Контакты
-
-📧 **Email:** [your.email@example.com]  
-💼 **GitHub:** [github.com/your-username](https://github.com/your-username)  
-💬 **Telegram:** [@your_nickname](https://t.me/your_nickname)
+🌐 **Web-Site** https://sf-dev.ru
+📧 **Email:** [softik.d@gmail.com]  
+💼 **GitHub:** [github.com/Safonovdv91](https://github.com/Safonovdv91)  
+💬 **Telegram:** [@SoftikMy](https://t.me/SoftikMy)
 
 ---
 
